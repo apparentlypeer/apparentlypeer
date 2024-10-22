@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Peer-Ole
 - 👀 I’m interested in psychological science, methodology, adn data analysis
-- 🌱 I’m currently training my data analysis skills in R & Python
+- 🌱 I’m currently a PhD student at the research group of quantitative psychology and individual differences at KU Leuven
 - 💞️ I’m looking to collaborate on psychological research and data science
 
 <!---
